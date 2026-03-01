@@ -1,0 +1,12 @@
+Float Bin - Components List
+1. ESP8266 Microcontroller 
+2. 12V DC Suction Pump
+3. 1-Channel Relay Module (5V)
+4. 2 × 3.4V Lithium-ion Batteries
+5. Battery Holder 
+6. Blynk IoT Platform (Mobile App Control)
+7. Plastic Bucket (Main body)
+8. Sieve / Mesh Filter (Dust separation)
+9. Connecting Wires 
+10. XL6009 DC-DC step up boost converter module
+11. Breadboard  (for circuit assembly)
