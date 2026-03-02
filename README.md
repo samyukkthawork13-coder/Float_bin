@@ -18,6 +18,7 @@ It uses a 12V suction pump controlled by an ESP 8266 microcontroller and operate
 - 2 × 3.4V Lithium-ion batteries
 - Bucket with sieve
 - Connecting wires
+- XL6009 step up boost converter module
 
 ##  Working Principle
 When the relay is activated through the Blynk app:
